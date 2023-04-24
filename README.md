@@ -1,7 +1,6 @@
 LEARN REACT FROM SCRATCH 
 
 
-MAIN TOPICS COVERED
 
 * Components and Props
 * States
