@@ -3,11 +3,11 @@ LEARN REACT FROM SCRATCH
 
 MAIN TOPICS COVERED
 
-* COMPOENENTS AND PROPS
-* STATES
-* HOOKS
-* REDUX
-* TYPESCRIPT
-* FORMS
-* STATE MANAGEMENT
-* PROJECT USING FIREBASE
+* Components and Props
+* States
+* Hooks
+* Redux
+* Typescript
+* Forms
+* State Management
+* Project using firebase
